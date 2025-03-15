@@ -1,3 +1,6 @@
 [submodule "django-polls-rest-api"]
 	path = django-polls-rest-api
 	url = git@github.com:wanseos/django-polls-rest-api.git
+[submodule "flask-polls-rest-api"]
+	path = flask-polls-rest-api
+	url = git@github.com:wanseos/flask-polls-rest-api.git
